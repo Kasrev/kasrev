@@ -53,7 +53,7 @@ Yazılım, grafik tasarım ve içerik üreticiliği konularında kendimi gelişt
 ## 🔗 Programlar ve Araçlar
 ⌨️ **Kodlama:** [Visual Studio Code](https://code.visualstudio.com), HTML, CSS 
 
-🎥 **Video Düzenleme:** [Adobe Premiere Pro](2025https://www.adobe.com/tr/products/premiere/campaign/pricing.html?skwcid=AL!3085!3!760757000524!e!!g!!adobe%20premiere%20pro&mv=search&mv2=paidsearch&sdid=G4FRYP7G&ef_id=Cj0KCQjw5JXFBhCrARIsAL1ckPsLcVvvXDMeuFIGXUyIahkqNF5jsush6cOllKGZkspWtMlmkrPrshcaAgmCEALw_wcB:G:s&s_kwcid=AL!3085!3!760757000524!e!!g!!adobe%20premiere%20pro!22726169471!182315966555&gad_source=1&gad_campaignid=22726169471&gclid=Cj0KCQjw5JXFBhCrARIsAL1ckPsLcVvvXDMeuFIGXUyIahkqNF5jsush6cOllKGZkspWtMlmkrPrshcaAgmCEALw_wcB)
+🎥 **Video Düzenleme:** [Adobe Premiere Pro](https://www.adobe.com/tr/creativecloud.html?skwcid=AL!3085!3!760753543426!b!!g!!adobe&mv=search&mv2=paidsearch&sdid=D4P81NYZ&ef_id=Cj0KCQjw5JXFBhCrARIsAL1ckPvU7xn2rkXrH-Y2LEWJxvqdIJvbhd9QTPbdRmrTVGlN5SmSBkoIPXEaAhSEEALw_wcB:G:s&s_kwcid=AL!3085!3!760753543426!b!!g!!adobe!22726169465!182315965355&gad_source=1&gad_campaignid=22726169465&gclid=Cj0KCQjw5JXFBhCrARIsAL1ckPvU7xn2rkXrH-Y2LEWJxvqdIJvbhd9QTPbdRmrTVGlN5SmSBkoIPXEaAhSEEALw_wcB)
 
 📸 **Fotoğraf Düzenleme:** [Adobe Photoshop 2025](https://www.adobe.com/tr/creativecloud.html?skwcid=AL!3085!3!760753543426!b!!g!!adobe&mv=search&mv2=paidsearch&sdid=D4P81NYZ&ef_id=Cj0KCQjw5JXFBhCrARIsAL1ckPvU7xn2rkXrH-Y2LEWJxvqdIJvbhd9QTPbdRmrTVGlN5SmSBkoIPXEaAhSEEALw_wcB:G:s&s_kwcid=AL!3085!3!760753543426!b!!g!!adobe!22726169465!182315965355&gad_source=1&gad_campaignid=22726169465&gclid=Cj0KCQjw5JXFBhCrARIsAL1ckPvU7xn2rkXrH-Y2LEWJxvqdIJvbhd9QTPbdRmrTVGlN5SmSBkoIPXEaAhSEEALw_wcB)
 
