@@ -16,7 +16,7 @@ Yazılım, grafik tasarım ve içerik üreticiliği konularında kendimi gelişt
 
 ## 🔭 Üzerinde Çalıştığım Projelerim...
 
-[📦 Aura Store Fivem QB Package](https://github.com/Kasrev/Aura-Store-Fivem-QB-Package)
+📦 [Aura Store Fivem QB Package](https://github.com/Kasrev/Aura-Store-Fivem-QB-Package)
 
 🏳️ **Filistin ve Doğu Türkistan Desteği için Boykot Sitesi**
 
@@ -35,15 +35,15 @@ Yazılım, grafik tasarım ve içerik üreticiliği konularında kendimi gelişt
 🌀 **Sanal Market Sitesi**
 
 ## 📝 Yapabildiklerim
-💻 Basit yazılım projeleri, website tasarımı
+💻 **Basit yazılım projeleri, website tasarımı**
 
-🎬 Video düzenleme, görsel efektler ekleme, kurgulama 
+🎬 **Video düzenleme, görsel efektler ekleme, kurgulama** 
 - [Örnek Video 1](https://www.youtube.com/watch?v=2QVSI5UGIeY)
 - [Örnek Video 2](https://www.youtube.com/watch?v=lieCOY8QVnI)  
 
-📺 Grafik tasarımı, banner, thumbnail, sosyal medya tasarımları  
+📺 **Grafik tasarımı, banner, thumbnail, sosyal medya tasarımları** 
 
-📊 Excel ile tablo oluşturma, Power Point ile slayt hazırlama
+📊 **Excel ile tablo oluşturma, Power Point ile slayt hazırlama**
 
 ## 🎯 Yapmak İstediklerim 
 📌 **Yazılım geliştirici olarak gerçek projelerde yer almak**
