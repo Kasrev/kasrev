@@ -16,6 +16,8 @@ Yazılım, grafik tasarım ve içerik üreticiliği konularında kendimi gelişt
 
 ## 🔭 Üzerinde Çalıştığım Projelerim...
 
+[📦 Aura Store Fivem QB Package](https://github.com/Kasrev/Aura-Store-Fivem-QB-Package)
+
 🏳️ **Filistin ve Doğu Türkistan Desteği için Boykot Sitesi**
 
 🧑🏻 **Kendi Blog Sitem**
