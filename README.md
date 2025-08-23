@@ -20,7 +20,7 @@ Yazılım, grafik tasarım ve içerik üreticiliği konularında kendimi gelişt
 
 🏳️ **Filistin ve Doğu Türkistan Desteği için Boykot Sitesi**
 
-🧑🏻 [Kendi Blog Sitem](https://github.com/Kasrev/My-blog-site)
+🧑🏻 [Blog Sitem](https://github.com/Kasrev/My-blog-site)
 
 📺 [**Fivem Loading Screen**](https://aura-store-webstore.tebex.io/package/6994089)  
 
