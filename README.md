@@ -20,15 +20,15 @@ Yazılım, grafik tasarım ve içerik üreticiliği konularında kendimi gelişt
 
 🏳️ **Filistin ve Doğu Türkistan Desteği için Boykot Sitesi**
 
-🧑🏻 [Blog Sitem](https://github.com/Kasrev/My-blog-site)
-
 📺 [**Fivem Loading Screen**](https://aura-store-webstore.tebex.io/package/6994089)  
 
 ## 🔔 Tamamlanan Projeler
 
-#### ✅ [Fivem QB Radialmenu CSS Edit](https://github.com/Kasrev/Fivem-QB-Radialmenu-CSS-Edit) 
+**🧑🏻 [Blog Sitem](https://github.com/Kasrev/My-blog-site)**
 
-#### ✅ [Fivem QB Multichar CSS Edit](https://github.com/Kasrev/Fivem-QB-Multicharacter-Black-CSS-Edit)
+**✅ [Fivem QB Radialmenu CSS Edit](https://github.com/Kasrev/Fivem-QB-Radialmenu-CSS-Edit)**
+
+**✅ [Fivem QB Multichar CSS Edit](https://github.com/Kasrev/Fivem-QB-Multicharacter-Black-CSS-Edit)**
 
 ## ⏸️ Yarım Bıraktıklarım
 
