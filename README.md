@@ -71,7 +71,7 @@ Yazılım, grafik tasarım ve içerik üreticiliği konularında kendimi gelişt
 
  ### [Behance](https://www.behance.net/kasrev)
 
-✨ *GitHub profilim zamanla yeni projeler ve çalışmalarla güncellenecektir.*
+#### ✨ *GitHub profilim zamanla yeni projeler ve çalışmalarla güncellenecektir.*
 
  ### Gmail 
  kasrevtr@gmail.com
