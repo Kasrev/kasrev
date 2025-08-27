@@ -54,9 +54,9 @@ Yazılım, grafik tasarım ve içerik üreticiliği konularında kendimi gelişt
 
 ## ♻️ Öğreniyorum
 
-** 🐧Linux**
+**🐧Linux**
 
-** 🏴 İngilizce**
+**🏴 İngilizce**
 
 ## 🔗 Programlar ve Araçlar
 ⌨️ **Kodlama:** [Visual Studio Code](https://code.visualstudio.com), HTML, CSS 
