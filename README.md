@@ -50,7 +50,13 @@ Yazılım, grafik tasarım ve içerik üreticiliği konularında kendimi gelişt
 
 📌 **GitHub profilimi aktif olarak projelerle doldurmak**  
 
-📌 **Profesyonel seviyede bir Website kodlama**  
+📌 **Profesyonel seviyede bir Website kodlama** 
+
+## ♻️ Öğreniyorum
+
+** 🐧Linux**
+
+** 🏴 İngilizce**
 
 ## 🔗 Programlar ve Araçlar
 ⌨️ **Kodlama:** [Visual Studio Code](https://code.visualstudio.com), HTML, CSS 
