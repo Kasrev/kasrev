@@ -1,6 +1,11 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,lua,py,vscode,git,github,ae,pr,ps,blender,linux,ubuntu,windows,md,mysql,&perline=6)](https://skillicons.dev)
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kasrev" />
+</a>
+<a href="https://github.com/kasrev/kasrev">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasrev&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <img src="https://avatars.githubusercontent.com/u/133913975?s=400&u=ece85bb9c977ffe3b060e02e6c869c23119e998d&v=4" width="200" height="200" align="right">
 
