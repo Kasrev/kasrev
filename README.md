@@ -1,3 +1,7 @@
+[![My Skills](https://skillicons.dev/icons?i=ae,blender,css,git,github,html,linux,lua,md,mysql,pr,py,ubuntu,vscode,windows,&perline=6)](https://skillicons.dev)
+
+
+
 <img src="https://avatars.githubusercontent.com/u/133913975?s=400&u=ece85bb9c977ffe3b060e02e6c869c23119e998d&v=4" width="200" height="200" align="right">
 
 # Merhabalar, Benim Adım Kasrev
