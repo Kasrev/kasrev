@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=ae,blender,css,git,github,html,linux,lua,md,mysql,pr,py,ubuntu,vscode,windows,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,lua,py,vscode,git,github,ae,pr,ps,blender,linux,ubuntu,windows,md,mysql,&perline=6)](https://skillicons.dev)
 
 
 
