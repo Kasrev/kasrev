@@ -1,11 +1,16 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,lua,py,vscode,git,github,ae,pr,ps,blender,linux,ubuntu,windows,md,mysql,&perline=6)](https://skillicons.dev)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kasrev" />
-</a>
-<a href="https://github.com/kasrev/kasrev">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasrev&layout=compact&langs_count=8&card_width=320" />
-</a>
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=kasrev&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasrev&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
 <img src="https://avatars.githubusercontent.com/u/133913975?s=400&u=ece85bb9c977ffe3b060e02e6c869c23119e998d&v=4" width="200" height="200" align="right">
 
