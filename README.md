@@ -34,6 +34,8 @@
 
 🏳️ **Filistin ve Doğu Türkistan Desteği için Boykot Sitesi**
 
+🌀 **Sanal Market Sitesi**
+
 📺 [**Fivem Loading Screen**](https://aura-store-webstore.tebex.io/package/6994089)  
 
 ## 🔔 Tamamlanan Projeler
@@ -43,10 +45,6 @@
 **✅ [Fivem QB Radialmenu CSS Edit](https://github.com/Kasrev/Fivem-QB-Radialmenu-CSS-Edit)**
 
 **✅ [Fivem QB Multichar CSS Edit](https://github.com/Kasrev/Fivem-QB-Multicharacter-Black-CSS-Edit)**
-
-## ⏸️ Yarım Bıraktıklarım
-
-🌀 **Sanal Market Sitesi**
 
 ## 📝 Yapabildiklerim
 💻 **Basit yazılım projeleri, website tasarımı**
@@ -66,16 +64,9 @@
 
 📌 **Profesyonel seviyede bir Website kodlama** 
 
-## ♻️ Öğreniyorum
-
-**🏴 İngilizce**
-
  ## 🌐 Bağlantılarım
 
- ### [Behance](https://www.behance.net/kasrev)
+**[Behance](https://www.behance.net/kasrev)**
 
 #### ✨ *GitHub profilim zamanla yeni projeler ve çalışmalarla güncellenecektir.*
-
- ### Gmail 
- kasrevtr@gmail.com
 
