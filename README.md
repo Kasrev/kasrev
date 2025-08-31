@@ -67,18 +67,7 @@ Yazılım, grafik tasarım ve içerik üreticiliği konularında kendimi gelişt
 
 ## ♻️ Öğreniyorum
 
-**🐧Linux**
-
 **🏴 İngilizce**
-
-## 🔗 Programlar ve Araçlar
-⌨️ **Kodlama:** [Visual Studio Code](https://code.visualstudio.com), HTML, CSS 
-
-🎥 **Video Düzenleme:** [Adobe Premiere Pro](https://www.adobe.com/tr/creativecloud.html?skwcid=AL!3085!3!760753543426!b!!g!!adobe&mv=search&mv2=paidsearch&sdid=D4P81NYZ&ef_id=Cj0KCQjw5JXFBhCrARIsAL1ckPvU7xn2rkXrH-Y2LEWJxvqdIJvbhd9QTPbdRmrTVGlN5SmSBkoIPXEaAhSEEALw_wcB:G:s&s_kwcid=AL!3085!3!760753543426!b!!g!!adobe!22726169465!182315965355&gad_source=1&gad_campaignid=22726169465&gclid=Cj0KCQjw5JXFBhCrARIsAL1ckPvU7xn2rkXrH-Y2LEWJxvqdIJvbhd9QTPbdRmrTVGlN5SmSBkoIPXEaAhSEEALw_wcB)
-
-📸 **Fotoğraf Düzenleme:** [Adobe Photoshop 2025](https://www.adobe.com/tr/creativecloud.html?skwcid=AL!3085!3!760753543426!b!!g!!adobe&mv=search&mv2=paidsearch&sdid=D4P81NYZ&ef_id=Cj0KCQjw5JXFBhCrARIsAL1ckPvU7xn2rkXrH-Y2LEWJxvqdIJvbhd9QTPbdRmrTVGlN5SmSBkoIPXEaAhSEEALw_wcB:G:s&s_kwcid=AL!3085!3!760753543426!b!!g!!adobe!22726169465!182315965355&gad_source=1&gad_campaignid=22726169465&gclid=Cj0KCQjw5JXFBhCrARIsAL1ckPvU7xn2rkXrH-Y2LEWJxvqdIJvbhd9QTPbdRmrTVGlN5SmSBkoIPXEaAhSEEALw_wcB)
-
-⏰ **Diğer:** [OBS Studio](https://obsproject.com/tr), [GitHub](https://github.com), [MS Offices](https://www.popai.pro/en/ai-presentation?utm_source=google&utm_medium=search&utm_campaign=tr&utm_id=ms&utm_term=brand&gad_source=1&gad_campaignid=22892112378&gclid=Cj0KCQjw5JXFBhCrARIsAL1ckPvBtOmoidYe_-dK_XQoDWAdvPANrsu6tCtbLOnyEfDXfRAw3GSnOlIaAuYIEALw_wcB) 
 
  ## 🌐 Bağlantılarım
 
