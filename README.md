@@ -2,13 +2,13 @@
 <img width="480" height="360" alt="repository-open-graph-template" src="https://github.com/user-attachments/assets/a17a3c16-c0aa-42fa-97db-bb23bb2a7625" />
 
 # 👋 Merhabalar, Ben Kasrev!
-### Yazılım, grafik tasarım ve içerik üreticiliği konularında kendimi geliştiriyorum.. Bu dosyada bugüne kadar yaptıklarım, ilgilendiğim alanlar, projelerim vb. yer alıyor.
+### Yazılım, grafik tasarım ve içerik üreticiliği konularında kendimi geliştiriyorum.
+
+
 #
 ## [![My Skills](https://skillicons.dev/icons?i=html,css,lua,py,vscode,git,github,ae,pr,ps,blender,linux,ubuntu,windows,md,mysql,&perline=25)](https://skillicons.dev)
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+
 <details>
   <summary>Github Stats ⚡</summary>
   
