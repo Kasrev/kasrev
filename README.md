@@ -3,14 +3,10 @@
 
 # 👋 Hello, Im Kasrev!
 
-## [![My Skills](https://skillicons.dev/icons?i=html,css,lua,py,vscode,git,github,ae,pr,ps,blender,linux,ubuntu,windows,md,mysql,&perline=25)](https://skillicons.dev)
-
-
+ [![My Skills](https://skillicons.dev/icons?i=html,css,lua,py,vscode,git,github,ae,pr,ps,blender,linux,ubuntu,windows,md,mysql,&perline=25)](https://skillicons.dev)
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=kasrev&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasrev&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-
-#
 
 ## 🔥 İlgi Duyduğum Alanlar
 
@@ -61,6 +57,3 @@
  ## 🌐 Bağlantılarım
 
 **[Behance](https://www.behance.net/kasrev)**
-
-#### ✨ *GitHub profilim zamanla yeni projeler ve çalışmalarla güncellenecektir.*
-
