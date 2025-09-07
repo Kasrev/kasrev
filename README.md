@@ -3,6 +3,8 @@
 
 # 👋 Hello, Im Kasrev!
 
+# こんにちは、わたしはカシレヴィです。
+
  [![My Skills](https://skillicons.dev/icons?i=html,css,lua,py,vscode,git,github,ae,pr,ps,blender,linux,ubuntu,windows,md,mysql,&perline=25)](https://skillicons.dev)
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=kasrev&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
