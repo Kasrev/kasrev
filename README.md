@@ -10,51 +10,54 @@
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=kasrev&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasrev&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
-## 🔥 İlgi Duyduğum Alanlar
+## 🔥 Fields of Interest  
 
- 💻 **Website Kodlama**
+💻 **Website Coding**  
 
- 🎨 **Grafik Tasarım**
+🎨 **Graphic Design**  
 
- 🎬 **İçerik Üreticiliği**
+🎬 **Content Creation**  
 
- 🎮 **Video Oyunları**
+🎮 **Video Games**  
 
-## 🔭 Üzerinde Çalıştığım Projelerim...
+## 🔭 Projects I’m Working On...  
 
-📦 [Aura Store Fivem QB Package](https://github.com/Kasrev/Aura-Store-Fivem-QB-Package)
+📦 [Aura Store Fivem QB Package](https://github.com/Kasrev/Aura-Store-Fivem-QB-Package)  
 
-🏳️ **Filistin ve Doğu Türkistan Desteği için Boykot Sitesi**
+🏳️ **Support Website for Palestine and East Turkistan Boycott**  
 
-🌀 **Sanal Market Sitesi**
+🌀 **Online Market Website**  
 
 📺 [**Fivem Loading Screen**](https://aura-store-webstore.tebex.io/package/6994089)  
 
-## 🔔 Tamamlanan Projeler
+## 🔔 Completed Projects  
 
-**🧑🏻 [Blog Sitem](https://github.com/Kasrev/My-blog-site)**
+**🧑🏻 [My Blog Website](https://github.com/Kasrev/My-blog-site)**  
 
-**✅ [Fivem QB Radialmenu CSS Edit](https://github.com/Kasrev/Fivem-QB-Radialmenu-CSS-Edit)**
+**✅ [Fivem QB Radialmenu CSS Edit](https://github.com/Kasrev/Fivem-QB-Radialmenu-CSS-Edit)**  
 
-**✅ [Fivem QB Multichar CSS Edit](https://github.com/Kasrev/Fivem-QB-Multicharacter-Black-CSS-Edit)**
+**✅ [Fivem QB Multichar CSS Edit](https://github.com/Kasrev/Fivem-QB-Multicharacter-Black-CSS-Edit)**  
 
-## 📝 Yapabildiklerim
-💻 **Basit yazılım projeleri, website tasarımı**
+## 📝 My Skills  
 
-🎬 **Video düzenleme, görsel efektler ekleme, kurgulama** 
-- [Örnek Video 1](https://www.youtube.com/watch?v=2QVSI5UGIeY)
-- [Örnek Video 2](https://www.youtube.com/watch?v=lieCOY8QVnI)  
+💻 **Basic software projects, website design**  
 
-📺 **Grafik tasarımı, banner, thumbnail, sosyal medya tasarımları** 
+🎬 **Video editing, adding visual effects, montage**  
+- [Sample Video 1](https://www.youtube.com/watch?v=2QVSI5UGIeY)  
+- [Sample Video 2](https://www.youtube.com/watch?v=lieCOY8QVnI)  
 
-📊 **Excel ile tablo oluşturma, Power Point ile slayt hazırlama**
+📺 **Graphic design, banners, thumbnails, social media designs**  
 
-## 🎯 Yapmak İstediklerim 
-📌 **Yazılım geliştirici olarak gerçek projelerde yer almak**
+📊 **Creating tables with Excel, preparing slides with PowerPoint**  
 
-📌 **GitHub profilimi aktif olarak projelerle doldurmak**  
+## 🎯 My Goals  
 
-📌 **Profesyonel seviyede bir Website kodlama** 
+📌 **Contribute to real-world projects as a software developer**  
+
+📌 **Fill my GitHub profile with active projects**  
+
+📌 **Reach a professional level in website coding**  
+
 
 <h3>🔍 Where to find me</h3>
 <p><a href="https://github.com/Kasrev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.behance.net/kasrev" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" /></a>
