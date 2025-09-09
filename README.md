@@ -63,4 +63,4 @@
 <p><a href="https://github.com/Kasrev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.behance.net/kasrev" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" /></a>
 </p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasrev&label=Profile%20views&color=0e75b6&style=flat" alt="kasrev" /> </p>
