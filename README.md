@@ -3,7 +3,7 @@
 
 # 👋 Hello, Im Kasrev!
 
-# こんにちは、わたしはカシレヴィです。
+# 👋 こんにちは、わたしはカシレヴィです。
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,lua,py,vscode,git,github,ae,pr,ps,blender,linux,ubuntu,windows,md,mysql,&perline=25)](https://skillicons.dev)
   
@@ -56,6 +56,8 @@
 
 📌 **Profesyonel seviyede bir Website kodlama** 
 
- ## 🌐 Bağlantılarım
+<h3>🔍 Where to find me</h3>
+<p><a href="https://github.com/Kasrev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.behance.net/kasrev" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" /></a>
+</p>
 
-**[Behance](https://www.behance.net/kasrev)**
+
