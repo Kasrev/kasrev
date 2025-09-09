@@ -1,3 +1,4 @@
+&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
 
 <img width="480" height="360" alt="repository-open-graph-template" src="https://github.com/user-attachments/assets/a17a3c16-c0aa-42fa-97db-bb23bb2a7625" />
 
@@ -7,8 +8,10 @@
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,lua,py,vscode,git,github,ae,pr,ps,blender,linux,ubuntu,windows,md,mysql,&perline=25)](https://skillicons.dev)
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=kasrev&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasrev&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+![kasrev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasrev&theme=dark&show_icons=true)
+![kasrev's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasrev&layout=compact&theme=dark&show_icons=true)
+
+![kasrev's GitHub Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=kasrev&layout=compact&theme=dark&show_icons=true)
 
 ## 🔥 Fields of Interest  
 
