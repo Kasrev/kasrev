@@ -1,4 +1,3 @@
-&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
 
 <img width="480" height="360" alt="repository-open-graph-template" src="https://github.com/user-attachments/assets/a17a3c16-c0aa-42fa-97db-bb23bb2a7625" />
 
