@@ -67,3 +67,5 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasrev&label=Profile%20views&color=0e75b6&style=flat" alt="kasrev" /> </p>
+
+[![wakatime](https://wakatime.com/badge/user/cf9ff4c3-e122-4e87-89ff-c25b09b2ff27.svg)](https://wakatime.com/@cf9ff4c3-e122-4e87-89ff-c25b09b2ff27)
