@@ -3,8 +3,6 @@
 
 # 👋 Hello, Im Kasrev!
 
-# 👋 こんにちは、わたしはカシレヴィです。
-
  [![My Skills](https://skillicons.dev/icons?i=html,css,lua,py,vscode,git,github,obsidian,ae,pr,ps,blender,linux,ubuntu,mint,windows,md,mysql,robloxstudio,&perline=25)](https://skillicons.dev)
 
 ## 🔥 Fields of Interest  
@@ -16,6 +14,10 @@
 🎬 **Content Creation**  
 
 🎮 **Video Games**  
+
+📚 **Learn Language(English, Arabian, Japenese)**
+
+
 
 ## 🔭 Projects I’m Working On...  
 
