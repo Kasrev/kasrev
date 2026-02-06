@@ -5,7 +5,7 @@
 
 # 👋 こんにちは、わたしはカシレヴィです。
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,lua,py,vscode,git,github,ae,pr,ps,blender,linux,ubuntu,windows,md,mysql,&perline=25)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,lua,py,vscode,git,github,obsidian,ae,pr,ps,blender,linux,ubuntu,mint,windows,md,mysql,robloxstudio,&perline=25)](https://skillicons.dev)
 
 ## 🔥 Fields of Interest  
 
