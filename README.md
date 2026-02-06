@@ -6,11 +6,6 @@
 # 👋 こんにちは、わたしはカシレヴィです。
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,lua,py,vscode,git,github,ae,pr,ps,blender,linux,ubuntu,windows,md,mysql,&perline=25)](https://skillicons.dev)
-  
-![kasrev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasrev&theme=dark&show_icons=true)
-![kasrev's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasrev&layout=compact&theme=dark&show_icons=true)
-
-![kasrev's GitHub Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=kasrev&layout=compact&theme=dark&show_icons=true)
 
 ## 🔥 Fields of Interest  
 
