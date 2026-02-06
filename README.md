@@ -21,19 +21,9 @@
 
 📦 [Aura Store Fivem QB Package](https://github.com/Kasrev/Aura-Store-Fivem-QB-Package)  
 
-🏳️ **Support Website for Palestine and East Turkistan Boycott**  
-
-🌀 **Online Market Website**  
-
-📺 [**Fivem Loading Screen**](https://aura-store-webstore.tebex.io/package/6994089)  
-
 ## 🔔 Completed Projects  
 
 **🧑🏻 [My Blog Website](https://github.com/Kasrev/My-blog-site)**  
-
-**✅ [Fivem QB Radialmenu CSS Edit](https://github.com/Kasrev/Fivem-QB-Radialmenu-CSS-Edit)**  
-
-**✅ [Fivem QB Multichar CSS Edit](https://github.com/Kasrev/Fivem-QB-Multicharacter-Black-CSS-Edit)**  
 
 ## 📝 My Skills  
 
