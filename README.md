@@ -19,7 +19,7 @@
 
 ## 🔭 Projects I’m Working On...  
 
- **Parfume Website**
+ **Perfume Website**
 
 ## 🔔 Completed Projects  
 
