@@ -17,15 +17,15 @@
 
 📚 **Learn Language(English, Arabian, Japenese)**
 
-
-
 ## 🔭 Projects I’m Working On...  
 
-📦 [Aura Store Fivem QB Package](https://github.com/Kasrev/Aura-Store-Fivem-QB-Package)  
+ **Parfume Website**
 
 ## 🔔 Completed Projects  
 
 **🧑🏻 [My Blog Website](https://github.com/Kasrev/My-blog-site)**  
+
+** [Fruit Juice Website](https://github.com/Kasrev/My-blog-site)**
 
 ## 📝 My Skills  
 
