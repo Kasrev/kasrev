@@ -3,7 +3,7 @@
 
 # 👋 Hello, Im Kasrev!
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,lua,py,vscode,git,github,obsidian,ae,pr,ps,blender,linux,ubuntu,mint,windows,md,mysql,robloxstudio,&perline=25)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,lua,py,vscode,git,github,obsidian,ae,pr,ps,blender,linux,ubuntu,mint,windows,md,mysql,robloxstudio,&perline=25)](https://skillicons.dev)
 
 ## 🔥 Fields of Interest  
 
