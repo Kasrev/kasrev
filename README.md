@@ -22,7 +22,7 @@
 
 **🧑🏻 [My Blog Website](https://github.com/Kasrev/My-blog-site)**  
 
-**[bookzd](https://github.com/Kasrev/bookzd)**
+**📖 [bookzd](https://github.com/Kasrev/bookzd)** 
 
 ## 📝 My Skills  
 
