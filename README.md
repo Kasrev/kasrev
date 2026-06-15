@@ -29,8 +29,6 @@
 💻 **Basic software projects, website design**  
 
 🎬 **Video editing, adding visual effects, montage**  
-- [Sample Video 1](https://www.youtube.com/watch?v=2QVSI5UGIeY)  
-- [Sample Video 2](https://www.youtube.com/watch?v=lieCOY8QVnI)  
 
 📺 **Graphic design, banners, thumbnails, social media designs**  
 
