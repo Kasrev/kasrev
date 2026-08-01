@@ -18,9 +18,11 @@
 
  **Perfume Website**
 
-## 🔔 Completed Projects  
+## 🔔 Last Completed Projects  
 
-**🧑🏻 [My Blog Website](https://github.com/Kasrev/My-blog-site)**  
+**📖 [Fivem-Loading](https://github.com/Kasrev/kasrev-loading)** 
+
+**📖 [Fivem-Freecam](https://github.com/Kasrev/kasrev-freecam)** 
 
 **📖 [bookzd](https://github.com/Kasrev/bookzd)** 
 
