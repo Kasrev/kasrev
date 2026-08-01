@@ -16,13 +16,13 @@
 
 ## 🔭 Projects I’m Working On...  
 
- **Perfume Website**
+ **🧵 Fivem-Advanced-Crafting**
 
 ## 🔔 Last Completed Projects  
 
-**📖 [Fivem-Loading](https://github.com/Kasrev/kasrev-loading)** 
+**💫 [Fivem-Loading](https://github.com/Kasrev/kasrev-loading)** 
 
-**📖 [Fivem-Freecam](https://github.com/Kasrev/kasrev-freecam)** 
+**📷 [Fivem-Freecam](https://github.com/Kasrev/kasrev-freecam)** 
 
 **📖 [bookzd](https://github.com/Kasrev/bookzd)** 
 
