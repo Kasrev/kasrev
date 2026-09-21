@@ -16,7 +16,7 @@
 
 ## 📝 My Skills  
 
-💻 **Basic software projects, website design**  
+💻 **Basic Software Projects, Advanced Website Design**  
 
 🎬 **Video editing, adding visual effects, montage**  
 
