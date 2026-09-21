@@ -14,18 +14,6 @@
 
 📚 **Learn Language(English, Arabian, Japenese)**
 
-## 🔭 Projects I’m Working On...  
-
- **🧵 Fivem-Advanced-Crafting**
-
-## 🔔 Last Completed Projects  
-
-**💫 [Fivem-Loading](https://github.com/Kasrev/kasrev-loading)** 
-
-**📷 [Fivem-Freecam](https://github.com/Kasrev/kasrev-freecam)** 
-
-**📖 [bookzd](https://github.com/Kasrev/bookzd)** 
-
 ## 📝 My Skills  
 
 💻 **Basic software projects, website design**  
