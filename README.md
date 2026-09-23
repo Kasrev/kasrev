@@ -25,17 +25,6 @@
 
 📺 **Graphic design, banners, thumbnails, social media designs**  
 
-📊 **Creating tables with Excel, preparing slides with PowerPoint**  
-
-## 📖 Learning
-
-💻 **Computer Science Course**
-*- PC Basics, Design, Office Programs*
-
-📦 **Linux**
-*Mint & Ubuntu Usage, CMD Usage**
-
-
 ## 🎯 My Goals  
 
 📌 **Contribute to real-world projects as a software developer**  
